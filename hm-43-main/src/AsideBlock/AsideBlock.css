@@ -1,0 +1,14 @@
+
+.aside_block {
+    padding: 5px;
+    background: rgb(112, 95, 160);
+    flex-basis: 300px;
+
+    text-align: center;
+}
+.wrapper_save_button{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 5px;
+}
